@@ -4,6 +4,12 @@
 - Bio: B.Sc. Student
 - GitHub: [Aanya Gupta](https://github.com/freckles30)
 
+#### Name: Bilal Ahmad
+
+- Place: Lahore, Pakistan
+- Bio: B.Sc. Student
+- GitHub: [Bilal](https://github.com/half_developer)
+
 #### Name: Arya Soni
 
 - Place: Delhi, India
